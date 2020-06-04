@@ -8,5 +8,5 @@ Większość notebooków wykorzystuje już przetworzony zbiór rozbity na częś
  - python 3
  - jupyter notebook
  - pandas
- - networkx
+ - networkx    
 W trakcie analizy wykorzystywaliśmu również program Gephi, jednak nie jest niezbędny do odtworzenia wszystkich wyników.
