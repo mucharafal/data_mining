@@ -22,3 +22,8 @@ Analizy wykonane są w notatnikach jupyter.
  - uruchomienie notebooka `authors_to_index.ipynb`
  ### Podział na grupy tematyczne w Gephi
  Niestety ze względu na element losowy w metodzie dzielącej na grupy (o czym zorientowaliśmy się po czasie, gdy próbowaliśmy dograć wyniki) w programie, podział na grupy tematyczne jest niejednoznaczny. Uzyskane przez nas wyniki mogą być nie do odtworzenia. Uzyskane grupy zapisane są w plikach `csv`
+## Dokumentacja
+https://trac.iisg.agh.edu.pl/ed/wiki/projects/2020/DBLP
+## Prezentacja
+https://drive.google.com/file/d/1fFTZHWXUjxmsoL2DZE4NoQR55ST2nxdO/view?usp=sharing
+Jest to paczka źródłowa z overleafa.
