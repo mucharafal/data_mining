@@ -13,4 +13,6 @@ Należy w notebookach zmienić katalog roboczy na katalog, gdzie zostaną rozpak
  - jupyter notebook
  - pandas
  - networkx    
-W trakcie analizy wykorzystywaliśmu również program Gephi, jednak nie jest niezbędny do odtworzenia wszystkich wyników.
+ - Gephi    
+ ## Analizy
+Analizy wykonane są w notatnikach jupyter.
