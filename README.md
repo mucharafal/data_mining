@@ -16,3 +16,9 @@ Należy w notebookach zmienić katalog roboczy na katalog, gdzie zostaną rozpak
  - Gephi    
  ## Analizy
 Analizy wykonane są w notatnikach jupyter.
+ ## Odtworzenie datasetów z pierwotnego zbioru
+ - uruchomienie `slicer.py`
+ - uruchomienie notebooka `fos_to_index.ipynb`
+ - uruchomienie notebooka `authors_to_index.ipynb`
+ ### Podział na grupy tematyczne w Gephi
+ Niestety ze względu na element losowy w metodzie dzielącej na grupy (o czym zorientowaliśmy się po czasie, gdy próbowaliśmy dograć wyniki) w programie, podział na grupy tematyczne jest niejednoznaczny. Uzyskane przez nas wyniki mogą być nie do odtworzenia. Uzyskane grupy zapisane są w plikach `csv`
