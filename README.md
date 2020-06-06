@@ -22,6 +22,8 @@ Analizy wykonane są w notatnikach jupyter.
  - uruchomienie notebooka `authors_to_index.ipynb`
  ### Podział na grupy tematyczne w Gephi
  Niestety ze względu na element losowy w metodzie dzielącej na grupy (o czym zorientowaliśmy się po czasie, gdy próbowaliśmy dograć wyniki) w programie, podział na grupy tematyczne jest niejednoznaczny. Uzyskane przez nas wyniki mogą być nie do odtworzenia. Uzyskane grupy zapisane są w plikach `csv`
+## Instalacja i uruchamianie
+Do projektu został załączony skrypt pobierający wszystkie niezbędne pliki z danymi, które zostały wykorzystane w notebookach, a następnie wypakujący je do odpowiedniego katalogu. Aby uruchomić projekt należy więc uprzednio dokonać instalacji skryptem `INSTALL.sh`, a następnie wykonać skrypt  `RUN.sh`. 
 ## Dokumentacja
 https://trac.iisg.agh.edu.pl/ed/wiki/projects/2020/DBLP
 ## Prezentacja
